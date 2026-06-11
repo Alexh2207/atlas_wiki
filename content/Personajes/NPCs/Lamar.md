@@ -1,0 +1,1 @@
+Hombre de una mano que se encontraba encarcelado junto a [[Fieran]], Jon y Ulrik. Después de escapar, se intercambió el cuerpo con Garruk

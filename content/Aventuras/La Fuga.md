@@ -1,0 +1,8 @@
+## Premisa
+Los personajes [[Jon]], [[Fieran]] y [[Ulrik]] se encuentran encarcelados en un convoy que se dirige a la frontera de los elfos, algo considerado prácticamente una muerte segura. Con ellos está [[Lamar]], que les dice que deben escapar antes de llegar.
+## Desarrollo
+Jon, Ulrik y Fieran, confiando ciegamente en su buen amigo Lamar, empiezan a pensar en la forma de escapar. Durante varios días, Fieran se dedica a ganarse la confianza de los perros, consiguiendo que, poco a poco, se vuelvan sus aliados. Una noche, después de discutir el plan, deciden pasar a la acción.
+
+Jon, con su mano de mago, consigue quitarle la llave de la jaula a uno de los guardias, simulando que se le cae al suelo. La cogen y esconden la llave en la jaula. Mientras los guardias la buscan, Fieran manda a los lobos como distracción, atrayendo la atención de toda la comitiva que, para ese momento, ya estaban buscando la llave. fieran consigue salir sigilosamente de la celda y alcanza los suministros de armas del convoy, armándose así con arcos, espadas y todo aquello que pudieran coger.
+
+Comienzan la refriega contra los guardias, a los que consiguen vencer. Después de matar al capitán Garruk, Lamar desaparece en la oscuridad y vuelve en su cuerpo, explicando a los demás que de esa forma puede hacer que se les perdonen los crímenes. En ese momento Garruk y el resto se separan y va cada uno por su lado.
