@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: Alexh2207.github.io
+  baseUrl: Alexh2207.github.io/atlas_wiki
   ignorePatterns:
     - private
     - templates
