@@ -6,7 +6,7 @@ Poco después de llegar al pueblo, [[Bokuto]] ve una banda de orcos acercándose
 Los preparativos son rápidos y [[Fieran]] intenta varias veces escalar hasta el tejado del edificio para obtener un punto desde el que vigilar a los supuestos atacantes. Sus esfuerzos son inútiles hasta que [[Silla]], utilizando sus garras de leopardo, es capaz de subir y tirarle una cuerda.
 Los orcos, inesperadamente, se quedan en las afueras del pueblo, por lo que los aventureros deciden descansar y recuperarse del cansancio del día.
 En mitad de la noche, los betuneros despertaron a [[Ulrik]] y [[Remi]], con sonrisas inhumanas y ojos saltones. Intentaron atacarles, teniendo estos que saltar por la ventana.
-Al oir la conmoción, [[Fieran]] y [[Silla]] bajaron por una cuerda, despachando a algún aldeano por el camino.
+Al oír la conmoción, [[Fieran]] y [[Silla]] bajaron por una cuerda, despachando a algún aldeano por el camino.
 Una vez abajo, estalló la batalla. Al principio los betuneros eran asequibles, pero pronto se volvieron demasiados como para que los 4 personajes pudieran sobrevivir. Sin embargo, lso orcos habían llegado a la ciudad en pequeños grupos para enfrentarse a ellos. [[Remi]], con un hechizo de comprender idiomas, fue capaz de hablar con los orcos y transmitirles que no eran enemigos, sino aliados.
 Con la ayuda de los orcos, fueron capaces de vencer al resto de los aldeanos.
 ### Desenlace
