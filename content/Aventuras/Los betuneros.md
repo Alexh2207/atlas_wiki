@@ -1,6 +1,6 @@
-### Premisa
+## Premisa
 Durante el camino hacia la capital, el grupo de aventureros encuentra señas de la presencia de una banda de orcos en la zona. Siguen avanzando, en guardia por estos descubrimientos, hasta llegar a un pueblo de betuneros.
-### Desarrollo
+## Desarrollo
 El pueblo son apenas unas pocas casas amontonadas, con una taberna en el centro que hace de centro social. Algunas de las casas del pueblo se encuentran tapiadas, sin signos de vida dentro.
 Poco después de llegar al pueblo, [[Bokuto]] ve una banda de orcos acercándose y rodeando el pueblo. Los aventureros empiezan a llamar a las puertas para avisar a los residentes y montar una defensa en la taberna central.
 Los preparativos son rápidos y [[Fieran]] intenta varias veces escalar hasta el tejado del edificio para obtener un punto desde el que vigilar a los supuestos atacantes. Sus esfuerzos son inútiles hasta que [[Silla]], utilizando sus garras de leopardo, es capaz de subir y tirarle una cuerda.

@@ -1,7 +1,7 @@
-### Premisa
+## Premisa
 Justo después de despejar la mansión, el festival del dragón tuvo lugar, un momento en el que se perdonaban los crímenes cometidos durante una semana, ya que toda persona que no estuviera en un asentamiento corría peligro de ser la comida de un dragón.
 Así, [[Silla]], [[Ulrik]], [[Remi]] y [[Fieran]] fueron al festival para tener un merecido descanso. Sin embargo, [[Silla]] vio a dos personas pagar a unos matones para atacarles. 
-### Desarrollo
+## Desarrollo
 Al no poder utilizar armas por el festival, decidieron que la mejor opción era evitar una confrontación directa. [[Fieran]] y [[Silla]] desaparecieron en la multitud, mientras que [[Ulrik]] escaló la pared de un edificio. [[Remi]] fue el único en confrontar a los matones, lanzando santuario para que la mayoría no le atacara. Al no obtener respuesta, [[Fieran]] lanzó una bomba de humo que permitió que [[Silla]] se acercara y destruyera completamente a los oponentes. Acto seguido, fue a confrontar a una de las figuras, que, al descubrir su cara, dejó prendido irremediablemente a Silla.
 Ambas de las figuras salieron huyendo y Fieran, a través de [[Bokuto]] las siguió a través de la ciudad hasta llegar a la taberna en la que se alojaban. El grupo les siguió, encontrándoles sentados a una mesa. Tras conversar con ellos, descubrieron que eran de un gremio de aventureros y la pelea era una prueba. Les dieron una piedra con la que podrían contactarles para otorgarles trabajos.
 La figura de la que se había enamorado Silla le llevó hasta una habitación, momento en el cuál le teletransportó a un lugar oscuro, aterrorizando al pobre carpintero y traumatizándolo.
