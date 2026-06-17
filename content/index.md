@@ -1,3 +1,6 @@
+--- 
+title: "Atlas" 
+---
 # ¡Bienvenidos a la Wiki de Atlas!
 
 Esta es la wiki pública de Atlas. ¡Tiene como objetivo que todos podamos acceder a las notas de los personajes y el mundo en general!
