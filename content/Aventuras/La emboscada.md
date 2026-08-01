@@ -1,0 +1,23 @@
+## Premisa
+Los aventureros se dirigen a la ciudad, después de haber tenido encuentros extraños en el laboratorio de los magos, con el objetivo de descansar un poco, reponer su equipamiento, y decidir sus siguientes pasos.
+## Desarrollo
+### Emboscados
+Los aventureros llegaron a la ciudad, después de haberse encontrado con un nuevo compañero, [[Farias]] y realizaron diversas compras hasta que Fieran se reunió con ellos en la taberna en la que se hospedaban. Después de hablar largo y tendido sobre lo que hacer, decidieron ir al Gremio a recoger la recompensa de su misión.
+Al llegar al Gremio, vieron que había muchos más guerreros de los que había la anterior vez. Hablaron brevemente con Gilda, la cual les dio una nota que tenía escrito: "Es una trampa"
+En ese momento, Silla se dio la vuelta para bajar por las escaleras, encontrándose con que todos los guerreros en la taberna estaban levantándose con intenciones claramente hostiles. 
+Al inicio de la batalla, Fieran lanzó un hechizo que causó que múltiples enredaderas aparecieran de entre las grietas de la madera del suelo y se enredaran en torno a muchos de los asaltantes, impidiéndoles el movimiento. Esto dio tiempo a que el resto intentara ir por un pasillo en busca de una salida, no sin que antes Silla le hundiera la cabeza a uno. En el pasillo, Inari detectó un olor sospechoso, por lo que empezó a gruñir. Al ver esto, Silla decidió que haría su propia puerta y empezó a derruir la pared de madera. 
+Silla tuvo éxito en su empresa, no sin que antes apareciera un mago que, intentando acertar a Remi con un dardo de ácido, le diera a uno de sus hombres derritiéndole la cara. En ese momento, el resto de enemigos se deformó, derritiéndoseles el lado derecho de la cara y obteniendo su ojo derecho un brillo plateado.
+Antes de escapar del todo, Fieran lanzó una flecha al mago, que voló y se le clavo en una pantorrilla. Después, se dio la vuelta y huyeron, con el satisfactorio grito de dolor del mago resonando en el aire.
+### Conversación filosófica
+Los aventureros  llegaron a las fronteras de la ciudad, consiguiendo salir sin ser vistos y dejándole a Garruk una nota para que fuera capaz de encontrarles en los bosques colindantes. Esa noche, después de acampar, Farias intentó enseñar a Silla a hablar en Kobold durante la hora que dura el hechizo de hablar lenguas.
+A la mañana siguiente, se encontraron con Garruk, que venía acompañado de la mujer extremadamente bella que Silla y Remi reconocieron como aquella que se había disfrazado de un hombre barbudo allá en el pueblo de la mansión NeMorem. 
+Según llegaron, la mujer se presentó como Aramnis y les dijo que habían atraído la atención de gente que, literalmente, tenía ojos en todas partes. Acto seguido les preguntó si consideraban que alguien que es controlado sigue siendo un individuo.
+Fieran dijo que sí, la individualidad no implica libertad. Uno puede ser un individuo sin ser libre, esto no le hace automáticamente pertenecer en todo a un colectivo.
+*Nota del autor: No me acuerdo del resto de opiniones, insertad los demás lo vuestro.*
+La mujer procedió a explicarles que en esta zona había 3 fuerzas que lo controlaban todo, pero que había aparecido una cuarta después de que Silla abriera la puerta de la cueva. Esto hacía que fuera extremadamente peligroso volver a la ciudad, y les ofreció tres caminos:
+1. Tierras élficas: Una opción era dirigirse hacia los bosques élficos, para descubrir nuevas fuerzas que ayudaran a los aventureros a enfrentarse a los peligros.
+2. El Norte: Al igual que con los elfos, los Teriántropos podían ser una gran fuente de información y poder, si eran capaces de negociar con ellos.
+3. El mar: Según explicó Aramnis, en tres meses, con el eclipse lunar, el mar retrocedería y permitiría el paso hasta una cueva en la que podían encontrar perlas que les ayudarían a conocer la realidad de este mundo.
+Mientras valoraban las opciones, Garruk mostró su verdadera forma. Se trataba de un Doppleganger, una criatura capaz de tomar la forma de quienes habían matado o de cadáveres muy recientes. Formaba parte de los nihilistas, una corriente de pensamiento que creían que la verdadera libertad era no ir al más allá de ninguno de los dioses, sino únicamente descansar.
+También Aramnis desveló su verdadera forma. Era una mediana, una especie de elfa pequeña de apenas 1 metro 30.
+Finalmente, los aventureros decidieron tomar el camino del este, hacia el mar, para obtener más información sobre el mundo.

@@ -18,4 +18,4 @@ Aquí tenéis un pequeño índice de las aventuras que han corrido nuestros pers
 - [[Fieran]]
 - [[Silla]]
 - [[Remi]]
-- [[Personaje de Juan]]
+- [[Farias]]
