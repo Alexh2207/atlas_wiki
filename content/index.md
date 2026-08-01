@@ -14,6 +14,7 @@ Aquí tenéis un pequeño índice de las aventuras que han corrido nuestros pers
 - [[Los betuneros]]
 - [[La Capital]]
 - [[La búsqueda de los kenkar]]
+- [[La emboscada]]
 ## Personajes de Jugador
 - [[Fieran]]
 - [[Silla]]
